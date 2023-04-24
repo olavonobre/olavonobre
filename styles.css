@@ -67,14 +67,14 @@ nav ul li a:hover{
   transform: scale(1.2);
 }
 
-.Main{
+.main{
   position: absolute;
   top: 50%;
   left: 8%;
   transform: translateY(-50%);
 }
 
-.Main span{
+.main span{
   color: #006cf9;
 }
 
@@ -96,13 +96,13 @@ h3{
   margin-bottom: 50px;
 }
 
-.Container-btn form{
+.container-btn form{
   width: 380px;
   max-width: 100%;
   position: relative;
 }
 
-.Container-btn form input:first-child{
+.container-btn form input:first-child{
   display: inline-block;
   width: 100%;
   padding: 14px 130px 14px 15px;
@@ -111,7 +111,7 @@ h3{
   outline: none;
 }
 
-.Container-btn form input:last-child{
+.container-btn form input:last-child{
   position: absolute;
   display: inline-block;
   outline: none;
@@ -138,7 +138,7 @@ h3{
   height: auto;
 }
 
-.Text-sobre{
+.text-sobre{
   width: 550px;
 }
 
@@ -150,14 +150,14 @@ h3{
  margin: 0 auto;
 }
 
-.Text-sobre h2{
+.text-sobre h2{
   color: #fff;
   font-size: 75px;
   text-transform: capitalize;
   margin-bottom: 20px;
 }
 
-.Text-sobre h5{
+.text-sobre h5{
   color: #fff;
   letter-spacing: 2px;
   font-size: 22px;
@@ -165,7 +165,7 @@ h3{
   text-transform: capitalize;
 }
 
-.Text-sobre p{
+.text-sobre p{
   color: #fcfc;
   letter-spacing: 1px;
   line-height: 28px;
@@ -191,7 +191,7 @@ button:hover{
   cursor: pointer;
 }
 
-.Container-serviços{
+.container-servicos{
   background-color: #101010;
   width: 100%;
   padding: 100px 0px;
@@ -205,7 +205,7 @@ button:hover{
   text-align: center;
 }
 
-.Caixa{
+.caixa{
   display: flex;
   justify-content: center;
   align-items: center;
@@ -213,7 +213,7 @@ button:hover{
   flex-wrap: wrap;
 }
 
-.Card{
+.card{
   background: #191919;
   height: 400px;
   width: 335px;
@@ -225,7 +225,7 @@ button:hover{
   
 }
 
-.Card i{
+.card i{
   font-size: 50px;
   display: block;
   text-align: center;
@@ -239,14 +239,14 @@ h5{
   margin-bottom: 15px;
 }
 
-.Paragrafo-button{
+.paragrafo-button{
   color: #fcfc;
   font-size: 16px;
   line-height: 27px;
   margin-bottom: 25px;
 }
 
-.Paragrafo-button button{
+.paragrafo-button button{
   margin-top: 25px;
 }
 
@@ -293,12 +293,12 @@ footer p{
   line-height: 23px;
 }
 
-.Redes-sociais{
+.redes-sociais{
   display: flex;
   
 }
 
-.Redes-sociais a{
+.redes-sociais a{
   background-color: #006cf9;
   width: 50px;
   height: 50px;
@@ -314,7 +314,7 @@ footer p{
   flex-direction: row;
 }
 
-.Redes-sociais a:hover{
+.redes-sociais a:hover{
   transform: scale(1.2);
   transition: .3s;
 }
@@ -333,25 +333,25 @@ footer p{
     background-color: #000;
     height: 75vh;
   }
-  .Main{
+  .main{
     width: 30vh;
   }
  
   .main-sobre{
     display: block;
   }
-    .title{
+  .title{
     display: block;
   }
   .title h2{
     font-size: 40px;
   }
-  .Text-sobre{
+  .text-sobre{
     width: auto;
     padding-left: 10px;
   
   }
-  .Text-sobre h2{
+  .text-sobre h2{
     font-size: 40px;
     padding-left: 90px
   }
