@@ -1,5 +1,5 @@
 ### Olá, Bem vindo ao meu perfil, me chamo Olavo Nobre!!! 👋:portugal:
-### Hey, welcome to my profile! I'm Olavo Nobre!!! 👋:us:
+### Hey, welcome to my profile! I'm Olavo Nobre!!! 👋:en:
 
 
 <div align="center">
